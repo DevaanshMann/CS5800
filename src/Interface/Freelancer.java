@@ -1,3 +1,6 @@
+//Devaansh Mann
+//CS 5800 - Homework 1
+
 package Interface;
 
 import java.text.DecimalFormat;
